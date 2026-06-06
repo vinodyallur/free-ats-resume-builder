@@ -1,0 +1,36 @@
+JOHN DOE
+Bengaluru, India | +91 9000000000 | john.doe@example.com | linkedin.com/in/john-doe | github.com/johndoe
+
+SUMMARY
+Computer Science graduate with hands-on experience in full-stack web development and
+machine learning. Passionate about building reliable, user-focused software.
+
+EXPERIENCE
+Software Engineering Intern - Acme Corp                                   Jun 2025 - Dec 2025
+- Built REST APIs in Python/FastAPI serving 10k+ daily requests.
+- Reduced page load time by 40% through caching and query optimisation.
+- Collaborated in an agile team using Git, CI/CD, and code reviews.
+
+PROJECTS
+Realtime Chat App
+- Developed a WebSocket-based chat app with React and Node.js.
+- Implemented JWT auth and end-to-end message encryption.
+
+Movie Recommender
+- Built a collaborative-filtering recommender on a 1M-rating dataset.
+- Deployed as a Flask web service with a simple UI.
+
+TECHNICAL SKILLS
+- Programming: Python, JavaScript, C++, SQL
+- Web: React, Node.js, FastAPI, Flask
+- Tools: Git, Docker, Linux, AWS
+
+EDUCATION
+B.Tech, Computer Science - Example University | CGPA: 8.5               2021 - 2025
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Machine Learning - Coursera
+
+LANGUAGES
+English, Hindi, Kannada
