@@ -1,4 +1,4 @@
-# 📄 ATS Resume Builder
+# 📄 Free ATS Resume Builder
 
 Turn **any** resume (PDF, DOCX, or TXT) into a clean, single‑column, **ATS‑friendly**
 one‑page resume in seconds — **free and open source**.
@@ -34,8 +34,8 @@ The generated DOCX deliberately uses only things ATS parsers handle well:
 
 ```bash
 # 1) Get the code
-git clone https://github.com/<your-username>/ats-resume-builder.git
-cd ats-resume-builder
+git clone https://github.com/vinodyallur/free-ats-resume-builder.git
+cd free-ats-resume-builder
 
 # 2) Install dependencies
 pip install -r requirements.txt
@@ -114,7 +114,7 @@ convert("resume.pdf", "resume_ATS.docx", enhance=True)  # with your LLM key
 ## Project structure
 
 ```text
-ats-resume-builder/
+free-ats-resume-builder/
 ├── ats_resume/
 │   ├── extract.py     # text extraction (PDF / DOCX / TXT)
 │   ├── parse.py       # heuristic section parser

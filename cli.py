@@ -1,4 +1,4 @@
-"""Command-line interface for the ATS Resume Builder.
+"""Command-line interface for the Free ATS Resume Builder.
 
 Examples
 --------

@@ -1,4 +1,4 @@
-"""Streamlit web app for the ATS Resume Builder.
+"""Streamlit web app for the Free ATS Resume Builder.
 
 Run locally:
     streamlit run app.py
@@ -14,9 +14,9 @@ import streamlit as st
 
 from ats_resume import convert
 
-st.set_page_config(page_title="ATS Resume Builder", page_icon="📄", layout="centered")
+st.set_page_config(page_title="Free ATS Resume Builder", page_icon="📄", layout="centered")
 
-st.title("📄 ATS Resume Builder")
+st.title("📄 Free ATS Resume Builder")
 st.write(
     "Upload your resume and download a clean, single-column, **ATS-friendly** "
     "version in seconds. Works fully offline and free — no sign-up required."

@@ -1,4 +1,4 @@
-"""ATS Resume Builder — convert any resume into a clean, 1-page, ATS-friendly DOCX."""
+"""Free ATS Resume Builder — convert any resume into a clean, 1-page, ATS-friendly DOCX."""
 
 from .build import build_docx
 from .extract import extract_text
