@@ -148,3 +148,7 @@ templates, language localisation.
 
 > Disclaimer: This tool reformats your existing content. Always review the output for
 > accuracy before submitting. No ATS score is guaranteed; results vary by system.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vinodyallur/free-ats-resume-builder&type=Date)](https://star-history.com/#vinodyallur/free-ats-resume-builder&Date)
