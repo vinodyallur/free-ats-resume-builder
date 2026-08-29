@@ -78,7 +78,7 @@ def _call_openai(prompt, api_key, model, base_url):
     from openai import OpenAI
 
     client = OpenAI(api_key=api_key, base_url=base_url or None)
-    resp = client.chat.completions.create(
+    resp = client.chat.completions.createPayment(
         model=model or "gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
